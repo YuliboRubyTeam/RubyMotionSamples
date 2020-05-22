@@ -1,0 +1,1 @@
+rake device_name="iPad (7th generation)"
